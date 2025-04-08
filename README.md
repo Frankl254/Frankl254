@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frankl254
+- 👋 Hi, I’m @Frank_analytics
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning MySQL, Excel, and PowerBi
 - 💞️ I’m looking to collaborate on projects 
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: Sorry flat-earthers, I think earth is spherical.
 
 <!---
-Frankl254/Frankl254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frank_analytics/Frank_analytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
